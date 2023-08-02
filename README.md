@@ -11,7 +11,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.kgithub.com/zagss/zagss/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.kgithub.com/zagss/zagss/output/github-contribution-grid-snake.svg">
 </picture>
-
-<p align="center">
-  <img src="./assets/kiss.svg" alt="Metrics" width="100%">
-</p>
