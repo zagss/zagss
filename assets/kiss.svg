@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="calendar" version="1.1" viewBox="0,0 795,430">
-<g xmlns="http://www.w3.org/2000/svg" transform="translate(0, 1054)">
+<svg xmlns="http://www.w3.org/2000/svg" class="calendar" version="1.1" viewBox="0,0 795,80">
+<g xmlns="http://www.w3.org/2000/svg" transform="translate(0, 0)">
   <g transform="translate(0, 0)">
       <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
       <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
