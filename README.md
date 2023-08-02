@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](./assets/welcome.svg)
+![](assets/welcome.svg)
 
 <!-- my-skills -->
 ![](./assets/skills.png)
