@@ -13,3 +13,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.kgithub.com/zagss/zagss/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
+
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.kgithub.com/zagss/zagss/output/github-contribution-grid-snake-dark.svg">
+</p>
